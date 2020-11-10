@@ -16,5 +16,5 @@
   <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75">
 </a>
 -----------------------------------
-##### Made with few Forks & lots of obsessive ❤️ with Technology & Innovation by [Vivan Vatsa](https://github.com/VivanVatsa)
+##### Made with few Forks & lots of obsessive ❤️ with Technology & Innovation by [Vivan Vatsa](https://www.linkedin.com/in/vivanvatsa/)
 -----------------------------------
