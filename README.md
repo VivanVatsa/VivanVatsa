@@ -18,8 +18,5 @@
 -----------------------------------
 ##### Made with few Forks & lots of obsessive ❤️ with Technology & Innovation by [Vivan Vatsa](https://www.linkedin.com/in/vivanvatsa/)
 -----------------------------------
-### GitHub Stats
-[![Vivan's github stats](https://github-readme-stats.vercel.app/api?username=VivanVatsa&hide=issues&theme=dracula)](https://github.com/VivanVatsa/github-readme-stats)
------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivanVatsa&theme=dracula)](https://github.com/VivanVatsa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivanVatsa&langs_count=10&layout=compact)](https://github.com/VivanVatsa/github-readme-stats)
 -----------------------------------
