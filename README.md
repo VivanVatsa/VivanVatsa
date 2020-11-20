@@ -16,7 +16,5 @@
   <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75">
 </a>
 -----------------------------------
-##### Made with few Forks & lots of obsessive ❤️ with Technology & Innovation by [Vivan Vatsa](https://www.linkedin.com/in/vivanvatsa/)
------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivanVatsa&langs_count=10&layout=compact)](https://github.com/VivanVatsa/github-readme-stats)
+##### Made with few Forks & lots of obsessive ❤️ with Technology & Innovation by [Vivan Vatsa](https://twitter.com/VivanVatsa)
 -----------------------------------
