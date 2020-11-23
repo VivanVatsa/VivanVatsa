@@ -1,7 +1,7 @@
 # Hello World !_
-## This is Vivan's GitHub Front-Door.
+## This is Vivan's GitHub Front-Door. Star & Fork.
 
-## Want to rant about different Ideas? Fine. Ping Vivan !!!
+## Want to rant about different Ideas? Fine. Ping Vivan!!!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VivanVatsa"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vivanvatsa/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
 -----------------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev.to/vivanvatsa">
