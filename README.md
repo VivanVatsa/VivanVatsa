@@ -1,7 +1,7 @@
-# Hello World !_
+# Hello World !_ 
 ## Vivan's GitHub Front-Door is OPEN for Ideas.
 -----------------------------------
-## Want to rant about different Ideas? Fine. Ping Vivan!!!
+## Want to rant about different Ideas? Fine. Ping Vivan!!! <img align="center" src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="30%" height="10%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VivanVatsa"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vivanvatsa/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
 -----------------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev.to/vivanvatsa">
