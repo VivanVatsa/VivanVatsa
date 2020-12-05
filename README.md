@@ -1,7 +1,7 @@
 # Hello World !_ 
-## Vivan's GitHub Front-Door is OPEN for Ideas. <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
+## 𝖁𝖎𝖛𝖆𝖓'𝖘 GitHub Front-Door is OPEN for Ideas. <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
 -----------------------------------
-## Want to rant about different Ideas? Fine. Ping Vivan!!! <img align="right" src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="30%" height="20%">
+## Want to rant about different Ideas? Fine. Ping 𝖁𝖎𝖛𝖆𝖓!!! <img align="right" src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="30%" height="20%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VivanVatsa"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="25px" width="25px"/></a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vivanvatsa/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="25px" width="25px"/></a>
 -----------------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev.to/vivanvatsa">
