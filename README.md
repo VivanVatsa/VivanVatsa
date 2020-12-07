@@ -1,4 +1,4 @@
-# Hello World !_ 
+# HELLO WORLD !_ 
 ## 𝖁𝖎𝖛𝖆𝖓'𝖘 GitHub Front-Door is OPEN for Ideas. <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
 -----------------------------------
 ## Want to rant about different Ideas? Fine. Ping 𝖁𝖎𝖛𝖆𝖓!!! <img align="right" src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="30%" height="20%">
