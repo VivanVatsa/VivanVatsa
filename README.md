@@ -14,5 +14,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/vivanvatsa">
   <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="90">
 </a>
-##### Made with few Forks & lots of obsessive ❤️ with Technology & Innovation by [Vivan Vatsa](https://twitter.com/VivanVatsa)
+##### Made with few Forks & plethora of obsession [❤️] with Technology & Innovation by [Vivan Vatsa](https://twitter.com/VivanVatsa)
 -----------------------------------
