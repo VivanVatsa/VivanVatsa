@@ -1,4 +1,4 @@
-# HELLO WORLD !_ 
+# Hello World !_ 
 ## 𝖁𝖎𝖛𝖆𝖓'𝖘 GitHub Front-Door is OPEN for Ideas. <a href="https://github.com/VivanVatsa"><img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%"> </a>
 -----------------------------------
 ## Wanna rant/read about different Ideas? Fine. Ping 𝖁𝖎𝖛𝖆𝖓!!!
