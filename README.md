@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VivanVatsa"><img src="https://img.icons8.com/doodle/2x/twitter.png" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vivanvatsa/"><img src="https://img.icons8.com/doodle/2x/linkedin.png" height="40px" width="40px"/></a>
 -----------------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev.to/vivanvatsa">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="vivan.'s DEV Profile" height="40" width="40">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="vivan.'s DEV Profile" height="30" width="30">
 </a>
 -----------------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@vivanvatsa">
@@ -16,3 +16,6 @@
 </a>
 ##### Made with few Forks & plethora of obsession [❤️] with Technology & Innovation by [Vivan Vatsa](https://twitter.com/VivanVatsa)
 -----------------------------------
+<a href="https://dev.to/vivanvatsa">
+  <i class="fab fa-dev" title="vivanvatsa's DEV Profile"></i>
+</a>
