@@ -3,7 +3,7 @@
 -----------------------------------
 ## Wanna rant/read different `perspective`? perfecto. Ping 𝖁𝖎𝖛𝖆𝖓!!!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VivanVatsa"><img src="https://img.icons8.com/ios/2x/twitter--v2.gif" height="50px" width="50px"/></a>
-
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vivanvatsa/"><img src="https://img.icons8.com/ios/2x/linkedin-circled--v2.gif" height="55px" width="55px"/></a>
 
 -----------------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev.to/vivanvatsa">
