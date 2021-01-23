@@ -12,5 +12,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/vivanvatsa">
   <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="90">
 </a>
-##### Created with few Forks & multiversal obsession [❤️] with Technology & Innovation by [Vivan Vatsa](https://twitter.com/VivanVatsa)
+##### Created with a few Forks & multiversal obsession [❤️] with Technology & Innovation by [Vivan Vatsa](https://twitter.com/VivanVatsa)
 -----------------------------------
