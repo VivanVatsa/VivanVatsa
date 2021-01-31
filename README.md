@@ -1,4 +1,4 @@
-# `Well, hello world !_`
+# `well, hello world !_`
 
 ## 𝖁𝖎𝖛𝖆𝖓'𝖘 GitHub front-door is OPEN for ideas. <a href="https://github.com/VivanVatsa"><img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%"> </a>
 
