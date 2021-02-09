@@ -1,5 +1,5 @@
 # `well, hello world !_`
-
+## aesthetics of 𝖁𝖎𝖛𝖆𝖓: 𝔢𝔫𝔱𝔯𝔢𝔭𝔯𝔢𝔫𝔢𝔲𝔯, 𝔰𝔢𝔩𝔣-𝔱𝔞𝔲𝔤𝔥𝔱 𝔡𝔞𝔱𝔞 𝔰𝔠𝔦𝔢𝔫𝔱𝔦𝔰𝔱, 𝔬𝔭𝔢𝔫-𝔰𝔬𝔲𝔯𝔠𝔢 & 𝔟𝔩𝔬𝔠𝔨𝔠𝔥𝔞𝔦𝔫.
 ## 𝖁𝖎𝖛𝖆𝖓'𝖘 GitHub front-door is OPEN for contributions & ideas. <a href="https://github.com/VivanVatsa"><img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%"> </a>
 
 ### want to weave stories about technology? great. ping 𝖁𝖎𝖛𝖆𝖓!!!
