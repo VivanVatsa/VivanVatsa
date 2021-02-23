@@ -19,5 +19,5 @@
   <img src="https://img.icons8.com/ios-filled/2x/medium-monogram--v2.gif" alt="drawing" width="55">
 </a>
 
-##### created the *README* with a few Forks & multiverse obsession [❤️](https://twitter.com/VivanVatsa) with technology & innovation.
+##### created the *README* with a few Forks & multiverse obsession [[❤️]](https://twitter.com/VivanVatsa) with technology & innovation.
 -----------------------------------
