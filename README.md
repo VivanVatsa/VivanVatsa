@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VivanVatsa"><img src="https://img.icons8.com/ios/2x/twitter--v3.gif" height="50px" width="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vivanvatsa/"><img src="https://img.icons8.com/ios-filled/2x/linkedin-2--v2.gif" height="55px" width="55px"/></a>
 -----------------------------------
 
-### 𝖁𝖎𝖛𝖆𝖓'𝖘 data science (AI-ML-DL) 𝖗𝖊𝖆𝖑𝖒
+### 𝖁𝖎𝖛𝖆𝖓'𝖘 data science 𝖗𝖊𝖆𝖑𝖒
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/vivanvatsa">
   <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="90">
 </a>
