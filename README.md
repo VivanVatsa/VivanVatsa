@@ -1,5 +1,5 @@
 # `well, hello world !_`
-## 𝔞𝔢𝔰𝔱𝔥𝔢𝔱𝔦𝔠𝔰 𝔬𝔣 𝖁𝖎𝖛𝖆𝖓: data-science, blockchain, open-source & cyber-security!!
+## 𝔞𝔢𝔰𝔱𝔥𝔢𝔱𝔦𝔠𝔰 𝔬𝔣 𝖁𝖎𝖛𝖆𝖓: data-science, blockchain, open-source & cyber-security!
 ## 𝖁𝖎𝖛𝖆𝖓'𝖘 GitHub front-door is OPEN for contributions & ideas. <a href="https://www.linkedin.com/in/vivanvatsa/"><img align="right" src="https://media2.giphy.com/media/CTkWFZ1IDvsfS/giphy.webp?cid=ecf05e47noi871jvkqv83apzof9adst30221su2f8g9jq7x6&rid=giphy.webp" alt="github" width="30%" height="30%"> </a>
 
 ### want to weave stories about technology? great! ping 𝖁𝖎𝖛𝖆𝖓
