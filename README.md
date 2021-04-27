@@ -14,10 +14,5 @@
   <img src="https://gitlab.aicrowd.com/uploads/-/system/appearance/header_logo/1/aicrowd-logo.png" alt="drawing" width="55">
 </a>
 
-### vivan'𝖘 perspective journal
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@vivanvatsa">
-  <img src="https://img.icons8.com/ios-filled/2x/medium-new.png" alt="drawing" width="55">
-</a>
-
 ##### created the *README* with a few Forks & multiverse obsession [[❤️]](https://twitter.com/VivanVatsa) with technology & innovation.
 ---------------------------------
