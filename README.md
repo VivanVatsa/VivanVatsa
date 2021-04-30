@@ -4,7 +4,7 @@
 
 ### want to weave stories about technology? great! ping 𝖁𝖎𝖛𝖆𝖓
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VivanVatsa"><img src="https://img.icons8.com/fluent/2x/twitter.png" height="50px" width="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vivanvatsa/"><img src="https://img.icons8.com/doodle/2x/linkedin--v2.png" height="55px" width="55px"/></a>
----------------------------------
+----------------------------------
 
 ### vivan's data science 𝖗𝖊𝖆𝖑𝖒
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/vivanvatsa">
@@ -15,4 +15,4 @@
 </a>
 
 ##### created the *README* with a few Forks & multiverse obsession [[❤️]](https://twitter.com/VivanVatsa) with technology & innovation.
----------------------------------
+----------------------------------
