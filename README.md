@@ -16,7 +16,7 @@
 
 ##### created the *README* with a few Forks & multiverse obsession [[❤️]](https://twitter.com/VivanVatsa) with technology & innovation.
 ----------------------------------
-<div align="center">
+<!-- <div align="center">
 
 [![][banner-url]][repo-url]  
 
@@ -32,7 +32,7 @@
 [repo-url]: https://github.com/VivanVatsa
 [banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif
 
-
+ -->
 -------
 <div align ="center">
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
