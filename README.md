@@ -7,11 +7,8 @@
 ----------------------------------
 
 ### vivan's data science 𝖗𝖊𝖆𝖑𝖒
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/vivanvatsa">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/vivanvatsa">
   <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="90">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://aicrowd.com/participants/vivanvatsa">
-  <img src="https://gitlab.aicrowd.com/uploads/-/system/appearance/header_logo/1/aicrowd-logo.png" alt="drawing" width="55">  
 </a>
 
 ##### created the *README* with a few Forks & multiverse obsession [[❤️]](https://twitter.com/VivanVatsa) with technology & innovation.
