@@ -1,4 +1,4 @@
-# `well, hello world !_`
+# `well, hello world !!_`
 ## vivan's 𝔞𝔢𝔰𝔱𝔥𝔢𝔱𝔦𝔠𝔰: data-science, blockchain, open-source & cyber-security!
 
 <a href="https://www.linkedin.com/in/vivanvatsa/"><img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.YvDsRW5jeyP4M_r--pBq7wHaK_%26pid%3DApi&f=1" alt="github" width="30%" height="25%"> </a>
@@ -26,4 +26,4 @@
 </a>
 
 
-##### created the *README* with a few Forks & multiverse obsession [[❤️]](https://twitter.com/VivanVatsa) with technology & innovation.
+### created the *README* with a few Forks & multiverse obsession [[❤️]](https://twitter.com/VivanVatsa) with technology & innovation.
