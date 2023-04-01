@@ -12,18 +12,5 @@
   <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="90">
 </a>
 
-## vivan's p3rsp3ctiv3, not a podcast!
-<a href="https://open.spotify.com/show/5Vemwy3Pu2O3thDOoVQU1Y">
-  <img src="https://podcasters.spotify.com/images/spotify-podcast-badge-quad.png" alt="drawing" width="200">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://pca.st/u9pgzqpa">
-  <img src="https://www.pocketcasts.com/assets/images/badges/pocketcasts_large_dark@2x.png" alt="drawing" width="120">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://music.amazon.in/podcasts/96870dfe-a41d-405e-a8b3-43fa23726698/reality-distortion-field">
-  <img src="https://podcasters.amazon.com/static/media/en_listenOnButton_indigo.baa0428b.png" alt="drawing" width="120">
-</a>
-
 -----
 #### created the *README* with a few Forks & multiverse obsession [[❤️]](https://twitter.com/VivanVatsa) with technology & innovation.
