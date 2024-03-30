@@ -14,3 +14,5 @@
 
 -----
 #### created the *README* with a few Forks & multiverse obsession [[❤️]](https://twitter.com/VivanVatsa) with technology & innovation.
+
+**_NOTE: I have taken a sabbatical from the computer science, systems, architecture and tech world. After sailing in many hats of Product Manager, Data Scientist, Cyber-Sec and Machine learning domain; have put it all on hold. Will pick it up once again, only after tasting other materialistic abyss._**
